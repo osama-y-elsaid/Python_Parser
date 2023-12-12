@@ -14,8 +14,8 @@ To run the parser, you will need:
 
 ## Setup
 1. Install Java Runtime Environment (JRE) version 8 or above.
-2. Install ANTLR v4 following the instructions on the official ANTLR website.
-3. Ensure Python 3.x is installed on your system.
+2. Install ANTLR v4 following the instructions on the official ANTLR [website](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md).
+3. [Optional] Ensure Python 3.x is installed on your system to run the "run_parser.py" script.
 
 ## How to Use/Run the Parser
 1. Navigate to the directory containing the `.g4` grammar file.
