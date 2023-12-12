@@ -24,5 +24,4 @@ To run the parser, you will need:
 - `javac *.java`.
 - `java PythonTest /path/to/your/python/file.py`. Replace /path/to/your/python/file.py with the actual path to the Python file you want to parse.
 
-## Demo Video
 
